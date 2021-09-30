@@ -1,0 +1,10 @@
+mit innerText oder so die location mit Switzerland abgleichen und dann aus der gleichen struktur den link auch mit innerText festhalten
+Queryselector ? 
+Innertext ?
+page.evaluate ?
+https://youtu.be/4q9CNtwdawA
+https://youtu.be/ARt3zDHSsd4
+
+https://youtu.be/aRXzW-o-zqs
+
+translate list to other list use .map
